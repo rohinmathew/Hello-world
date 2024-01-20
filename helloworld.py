@@ -1,4 +1,3 @@
 print("Hello World")
 
-# this is my first code in python
-
+# This is my very first code in Python
